@@ -1,7 +1,37 @@
 import sqlite3
+import chardet
+from chardet.universaldetector import UniversalDetector
 
 # Путь к файлу со словами
 file_path = "dict.txt"
+
+# Функция для определения кодировки файла
+def detect_encoding(file_path):
+    detector = UniversalDetector()
+    with open(file_path, 'rb') as f:
+        for line in f:
+            detector.feed(line)
+            if detector.done:
+                break
+    detector.close()
+    return detector.result['encoding']
+
+# Функция для конвертации файла в UTF-8
+def convert_to_utf8(file_path, original_encoding):
+    with open(file_path, 'r', encoding=original_encoding) as f:
+        content = f.read()
+    with open(file_path, 'w', encoding='utf-8') as f:
+        f.write(content)
+
+# Проверка кодировки файла
+encoding = detect_encoding(file_path)
+print(f"Определена кодировка файла: {encoding}")
+
+# Если файл не в UTF-8, конвертируем его
+if encoding.lower() != 'utf-8':
+    print(f"Конвертация файла из {encoding} в UTF-8...")
+    convert_to_utf8(file_path, encoding)
+    print("Файл успешно конвертирован в UTF-8.")
 
 # Подключение к базе данных
 conn = sqlite3.connect("words.db")
