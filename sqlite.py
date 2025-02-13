@@ -3,7 +3,7 @@ import chardet
 from chardet.universaldetector import UniversalDetector
 
 # Путь к файлу со словами
-file_path = "dict.txt"
+file_path = "russian.txt"
 
 # Функция для определения кодировки файла
 def detect_encoding(file_path):
