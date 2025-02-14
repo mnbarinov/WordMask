@@ -133,3 +133,6 @@ pyinstaller --onefile --windowed wordmask.py
 
 ## Поддержка
 Если у вас возникли вопросы или предложения, создайте issue в репозитории или свяжитесь со мной: [mnbarinov](https://github.com/mnbarinov).
+
+<img src="wordmask.jpg" alt="WordMask by Mikhail Barinov - Поисковик слов по шаблону/маске" width=100% align=center >
+
