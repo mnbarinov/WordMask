@@ -76,10 +76,12 @@ pip install pyinstaller
 Перейдите в папку с проектом и выполните команду:
 
 ```
-pyinstaller --onefile --windowed wordmask.py
+pyinstaller --onefile --windowed wordmask.py --icon wordmask.ico
 ```
 
 Скомпилированный файл будет находиться в папке dist.
+
+Перед запуском приложения убедитесь, что файл базыданных words.db и иконка приложения wordmask.ico находятся в папке с скомпилированным приложением.
 
 ## Инструкция по использованию
 ### Интерфейс программы
