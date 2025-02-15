@@ -141,3 +141,4 @@ pyinstaller --onefile --windowed wordmask.py --icon wordmask.ico
 
 <img src="wordmask.jpg" alt="WordMask by Mikhail Barinov - Поисковик слов по шаблону/маске" width=100% align=center >
 
+#ассонанс #консонанс #рифмы #стихи #поэт #текст #поискслов #флоу #рэп #assonance #consonance #rhymes #poems #poet #text #wordsearch #flow #rap
