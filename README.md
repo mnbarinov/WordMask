@@ -1,5 +1,5 @@
 # WordMask
-
+<img src="wordmask-header.jpg" alt="WordMask by Mikhail Barinov - Поисковик слов по шаблону/маске" width=100% align=center >
 <img src="wordmask_icon.png" alt="WordMask by Mikhail Barinov - Поисковик слов по шаблону/маске" width=96 align=left >
 
 `WordMask`  — это приложение для поиска слов по шаблону. Оно позволяет находить слова из текстового файла, соответствующие заданному шаблону, с возможностью фильтрации по длине слова и количеству гласных. 
