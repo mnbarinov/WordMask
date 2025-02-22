@@ -1,6 +1,6 @@
 # WordMask
-<img src="wordmask-header.jpg" alt="WordMask by Mikhail Barinov - Поисковик слов по шаблону/маске" width=100% align=center >
-<img src="wordmask_icon.png" alt="WordMask by Mikhail Barinov - Поисковик слов по шаблону/маске" width=96 align=left >
+<img src="/img/wordmask-header.jpg" alt="WordMask by Mikhail Barinov - Поисковик слов по шаблону/маске" width=100% align=center >
+<img src="/img/wordmask_icon.png" alt="WordMask by Mikhail Barinov - Поисковик слов по шаблону/маске" width=96 align=left >
 
 `WordMask`  — это приложение для поиска слов по шаблону. Оно позволяет находить слова из текстового файла, соответствующие заданному шаблону, с возможностью фильтрации по длине слова и количеству гласных. 
 
@@ -93,7 +93,7 @@ pyinstaller --onefile --windowed wordmask.py --icon wordmask.ico
 ## Инструкция по использованию
 ### Интерфейс программы
 
-<img src="wordmask.png" alt="WordMask by Mikhail Barinov - Поисковик слов по шаблону/маске" width=80% align=center >
+<img src="/img/wordmask.png" alt="WordMask by Mikhail Barinov - Поисковик слов по шаблону/маске" width=80% align=center >
 
  - Поле "Шаблон":
 
@@ -143,6 +143,6 @@ pyinstaller --onefile --windowed wordmask.py --icon wordmask.ico
 ## Поддержка
 Если у вас возникли вопросы или предложения, создайте issue в репозитории или свяжитесь со мной: [mnbarinov](https://github.com/mnbarinov).
 
-<img src="wordmask.jpg" alt="WordMask by Mikhail Barinov - Поисковик слов по шаблону/маске" width=100% align=center >
+<img src="/img/wordmask.jpg" alt="WordMask by Mikhail Barinov - Поисковик слов по шаблону/маске" width=100% align=center >
 
 #ассонанс #консонанс #рифмы #стихи #поэт #текст #поискслов #флоу #рэп #assonance #consonance #rhymes #poems #poet #text #wordsearch #flow #rap
