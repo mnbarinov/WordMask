@@ -8,7 +8,9 @@
 ##
 [![GitHub Release](https://img.shields.io/github/v/release/mnbarinov/wordmask?style=for-the-badge)](https://github.com/mnbarinov/wordmask/releases)
 [![Downloads](https://img.shields.io/github/downloads/mnbarinov/wordmask/total?style=for-the-badge)](https://github.com/mnbarinov/wordmask/releases)
-## 
+
+### [Скачать релиз WordMask v. 1.0](https://cloud.mail.ru/public/h2jW/TDKj9UjQa)
+##
 
 - [Возможности](#Возможности)
 - [Загрузка](#Загрузка)
