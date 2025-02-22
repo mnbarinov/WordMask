@@ -123,7 +123,7 @@ pyinstaller --onefile --windowed wordmask.py --icon wordmask.ico
 
 ### Примеры использования
 
-<img src="/img/wordmask-demo.gif" alt="WordMask by Mikhail Barinov - Поисковик слов по шаблону/маске" width=100% align=center>
+<img src="/img/wordmask-demo.gif" alt="WordMask by Mikhail Barinov - Поисковик слов по шаблону/маске" width=80% align=center>
 
 - Поиск слов по шаблону:
 ```
