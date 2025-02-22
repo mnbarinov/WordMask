@@ -6,8 +6,8 @@
 
 Приложение полезно для поэтов, писателей, лингвистов и всех, кто работает с текстами.
 ##
-[![GitHub Release](https://img.shields.io/github/v/release/mnbarinov/word-mask?style=for-the-badge)](https://github.com/mnbarinov/word-mask/releases)
-[![Downloads](https://img.shields.io/github/downloads/mnbarinov/word-mask/total?style=for-the-badge)](https://github.com/mnbarinov/word-mask/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/mnbarinov/wordmask?style=for-the-badge)](https://github.com/mnbarinov/wordmask/releases)
+[![Downloads](https://img.shields.io/github/downloads/mnbarinov/wordmask/total?style=for-the-badge)](https://github.com/mnbarinov/wordmask/releases)
 ## 
 
 - [Возможности](#Возможности)
