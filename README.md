@@ -5,6 +5,9 @@
 `WordMask`  — это приложение для поиска слов по шаблону. Оно позволяет находить слова из текстового файла, соответствующие заданному шаблону, с возможностью фильтрации по длине слова и количеству гласных. 
 
 Приложение полезно для поэтов, писателей, лингвистов и всех, кто работает с текстами.
+
+- Если у вас есть текстовый файл (словарь), содержащий список русских слов во всех возможных формах и *с указанием ударений*, пожалуйста, поделитесь им со мной. Это позволит существенно расширить возможности программы. 
+
 ##
 [![GitHub Release](https://img.shields.io/github/v/release/mnbarinov/wordmask?style=for-the-badge)](https://github.com/mnbarinov/wordmask/releases)
 [![Downloads](https://img.shields.io/github/downloads/mnbarinov/wordmask/total?style=for-the-badge)](https://github.com/mnbarinov/wordmask/releases)
